@@ -18,3 +18,6 @@ venv/
 
 # Datos originales
 data/raw/*.xlsx
+
+# Datos procesados
+data/processed/
